@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div class = container>
+   <h1>food LLC</h1>
+
+<div class="dropdown">
+  <button class="dropbtn centerman">-<br>-<br>-</button>
+  <div class="dropdown-content">
+    <a href="#">chiken</a>
+    <a href="#">beef</a>
+    <a href="#">sushi</a>
+  </div>
+</div>
+</div>
+
+  <div class = section>
+  <h2>chiken</h2>
+  <h3>Chickens (Gallus gallus) belong to the family Phasiandae and are one of the most domesticated animals. Although they are generally believed to have evolved from the wild red jungle fowl of India, the scientific name for the chicken is contested. Chickens (Gallus gallus) belong to the family Phasiandae and are one of the most domesticated animals. Although they are generally believed to have evolved from the wild red jungle fowl of India, the scientific name for the chicken is contested.</h3>
+  </div>
+
+  <div class = section>
+  <h2>beef</h2>
+  <h3>BEEF's ending shows Danny starting to wrap his arms around Amy. We don't know what happens next, but I like to believe that he embraces her back. It's a similar act to when they believe they're going to die and tell each other that they matter. This embrace is another way of saying, I see you. BEEF's ending shows Danny starting to wrap his arms around Amy. We don't know what happens next, but I like to believe that he embraces her back. It's a similar act to when they believe they're going to die and tell each other that they matter. This embrace is another way of saying, I see you.</h3>
+  </div>
+
+  <div class = section>
+  <h2>sushi</h2>
+  <h3>Sushi is a Japanese dish featuring specially prepared rice and usually some type of fish or seafood, often raw, but sometimes cooked. And though you might automatically associate the word sushi with raw fish, it's actually the rice that is the most important ingredient</h3>
+  </div>
+  
+  
+  <script src="script.js"></script>
+
+ 
+  
+ 
+</body>
+
+</html>
